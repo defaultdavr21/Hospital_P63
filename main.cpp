@@ -12,6 +12,7 @@ int main(){
     //int op;
     // Creando un paciente
     Paciente p("Gorgolito Perez", 58,'m',1.58,45.6,45.3);
+    cout<<"rfgrgr";
     // Imprimir datos del paciente
     cout << p.getDatos();
 
